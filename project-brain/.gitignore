@@ -1,0 +1,4 @@
+/private-knowledgebase/*
+!/private-knowledgebase/README.md
+
+# Git ignore does not untrack files already committed, and it does not prevent cloud-sync services from copying files.
